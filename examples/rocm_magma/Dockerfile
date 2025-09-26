@@ -1,4 +1,4 @@
-FROM docker.io/rocm/dev-ubuntu-22.04:6.3.2-complete
+FROM docker.io/rocm/dev-ubuntu-22.04:6.4.3-complete
 
 ENV DEBIAN_FRONTEND=noninteractive
 
